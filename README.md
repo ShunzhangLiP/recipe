@@ -1,17 +1,16 @@
-<<<<<<< HEAD
-### THIS is a LOCAL change :)
-=======
 
->>>>>>> 112cb12365605fa0c02208de7dda074bd220cb0e
-# recipe
-line 2 changed remotely
-DS-Tool box Pratice
+# README File
 
-Recipe of cream of mushroom soup
-<<<<<<< HEAD
 
-last line changed locally
+### recipe
 
-=======
-### This is a REMOTE change :O
->>>>>>> 112cb12365605fa0c02208de7dda074bd220cb0e
+DS-Tool box **Pratice** .
+
+Recipe of cream of *mushroom soup* .
+
+The practice has gone through
+1. Create, pull, commit, push to git
+2. Conflict and merge changes
+3. Branches and etc.
+
+    ![Mushroom Soup](./recipe.jpg)
